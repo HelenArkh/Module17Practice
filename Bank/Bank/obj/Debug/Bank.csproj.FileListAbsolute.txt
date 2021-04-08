@@ -1,0 +1,7 @@
+D:\VS_Projects\Module17Practice\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\VS_Projects\Module17Practice\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Module17Practice\Bank\Bank\bin\Debug\Bank.exe.config
+D:\VS_Projects\Module17Practice\Bank\Bank\bin\Debug\Bank.exe
+D:\VS_Projects\Module17Practice\Bank\Bank\bin\Debug\Bank.pdb
+D:\VS_Projects\Module17Practice\Bank\Bank\obj\Debug\Bank.exe
+D:\VS_Projects\Module17Practice\Bank\Bank\obj\Debug\Bank.pdb
